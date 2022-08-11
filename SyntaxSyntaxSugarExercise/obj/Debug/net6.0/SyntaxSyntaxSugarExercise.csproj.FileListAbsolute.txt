@@ -1,0 +1,15 @@
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\bin\Debug\net6.0\SyntaxSyntaxSugarExercise.exe
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\bin\Debug\net6.0\SyntaxSyntaxSugarExercise.deps.json
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\bin\Debug\net6.0\SyntaxSyntaxSugarExercise.runtimeconfig.json
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\bin\Debug\net6.0\SyntaxSyntaxSugarExercise.dll
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\bin\Debug\net6.0\SyntaxSyntaxSugarExercise.pdb
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\obj\Debug\net6.0\SyntaxSyntaxSugarExercise.csproj.AssemblyReference.cache
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\obj\Debug\net6.0\SyntaxSyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\obj\Debug\net6.0\SyntaxSyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\obj\Debug\net6.0\SyntaxSyntaxSugarExercise.AssemblyInfo.cs
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\obj\Debug\net6.0\SyntaxSyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\obj\Debug\net6.0\SyntaxSyntaxSugarExercise.dll
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\obj\Debug\net6.0\refint\SyntaxSyntaxSugarExercise.dll
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\obj\Debug\net6.0\SyntaxSyntaxSugarExercise.pdb
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\obj\Debug\net6.0\SyntaxSyntaxSugarExercise.genruntimeconfig.cache
+C:\Users\615ev\Desktop\repos\SyntaxSyntaxSugarExercise\SyntaxSyntaxSugarExercise\obj\Debug\net6.0\ref\SyntaxSyntaxSugarExercise.dll
